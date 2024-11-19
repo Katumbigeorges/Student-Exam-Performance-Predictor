@@ -28,7 +28,7 @@ The Student Exam Performance Predictor demonstrates the application of machine l
 The model is trained using the "Students Performance in Exams" dataset from Kaggle, which includes:
 - Student demographic information
 - Parental education details
-- Lunch type categories
+- Lunch-type categories
 - Test preparation course participation
 - Mathematics scores
 
